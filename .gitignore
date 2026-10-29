@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Large binary checkpoints & archives (>50MB triggers GitHub warnings)
+*.zip
+*.pt
+*.bin
+*.tar.gz
+
+# OS generated files
+.DS_Store
+Thumbs.db
